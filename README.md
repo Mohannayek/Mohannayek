@@ -1,5 +1,10 @@
 # 💫 About Me:
+<<<<<<< Updated upstream
 🔭 I’m currently working on ProctorLock, an AI-based serverless examination platform, and developing frontend web interfaces using Next.js.<br><br>👯 I’m looking to collaborate on full-stack web applications, open-source Android projects, or serverless API tools.<br><br>🤝 I’m looking for help with exploring business development strategies and bridging the gap between software engineering and tech management.<br><br>🌱 I’m currently learning advanced cloud computing, data, and machine learning modules through Google Cloud labs.<br><br>💬 Ask me about the MERN stack, Next.js, Kotlin, Android Studio layouts, or domain deployment.<br><br>⚡ Fun fact: When I am not writing code, I am usually analyzing granular cricket match statistics, comparing the bass depth of new portable audio gear, or hanging out with my cat, Miuu!
+=======
+🔭 I’m currently working on ProctorLock, an AI-based serverless examination platform, and developing frontend web interfaces using Next.js.<br><br>👯 I’m looking to collaborate on full-stack web applications, open-source Android projects, or serverless API tools.<br><br>🤝 I’m looking for help with exploring business development strategies and bridging the gap between software engineering and tech management.<br><br>🌱 I’m currently learning advanced cloud computing, data, and machine learning modules through Google Cloud labs.<br><br>💬 Ask me about the MERN stack, Next.js, Kotlin, Android Studio layouts, or domain deployment.<br><br>⚡ Fun fact: When I am not writing code, I am usually enjoying my life .
+suceess is not the achivement , achivement is when suceess  
+>>>>>>> Stashed changes
 
 
 ## 🌐 Socials:
